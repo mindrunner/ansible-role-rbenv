@@ -14,7 +14,7 @@ matrix:
 
 before_install:
   # Uninstall preinstalled RVM
-  - rvm implode --force </dev/null
+  #- rvm implode --force </dev/null
 
 install:
   # Debug info
